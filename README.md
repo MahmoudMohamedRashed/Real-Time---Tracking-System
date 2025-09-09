@@ -32,3 +32,7 @@ The system also integrates custom algorithms for trajectory visualization, defor
 git clone https://github.com/MoustafaMahmoud287/RealTime-Tracker.git
 cd RealTime-Tracker
 
+## 🎥 Demo Video
+[![Watch the video](https://img.shields.io/badge/Watch%20Video-Google%20Drive-red?logo=google-drive)](https://drive.google.com/file/d/1n8446wEqfd90cXZnX8Mfw-BISiGoeuIU/view?usp=drive_link)
+
+
