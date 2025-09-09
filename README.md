@@ -24,6 +24,9 @@ The system also integrates custom algorithms for trajectory visualization, defor
 - 🪟 **Win32 API GUI** for visualization and rendering
 - 📷 Camera access and capture with **Media Foundation**
 - 📈 Visualizing trajectories and deform-based analysis in real time
+- 
+## 🎥 Demo Video
+[![Watch the video](https://img.shields.io/badge/Watch%20Video-Google%20Drive-red?logo=google-drive)](https://drive.google.com/file/d/1n8446wEqfd90cXZnX8Mfw-BISiGoeuIU/view?usp=drive_link)
 
 ## Installation
 
@@ -32,7 +35,5 @@ The system also integrates custom algorithms for trajectory visualization, defor
 git clone https://github.com/MoustafaMahmoud287/RealTime-Tracker.git
 cd RealTime-Tracker
 
-## 🎥 Demo Video
-[![Watch the video](https://img.shields.io/badge/Watch%20Video-Google%20Drive-red?logo=google-drive)](https://drive.google.com/file/d/1n8446wEqfd90cXZnX8Mfw-BISiGoeuIU/view?usp=drive_link)
 
 
